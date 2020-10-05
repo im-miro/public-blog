@@ -1,12 +1,12 @@
 module.exports = {
   title: `HASE blog`,
-  description: `Blog posted about ...`,
+  description: `WRITE EROEER LOG & ANSWER`,
   author: `[TAITO HASEGAWA]`,
   introduction: `ERROR LOG BLog`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: `@Thsgw3`, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `im-miro`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -14,14 +14,14 @@ module.exports = {
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
-    disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    disqusShortName: 'hase-blog1', // Your disqus-short-name. check disqus.com.
+    utterances: '', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'TAITO_HASEGAWA',
+    buyMeACoffeeId: 'hasegawataito',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
